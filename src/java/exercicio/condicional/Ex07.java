@@ -1,6 +1,7 @@
+package src.java.exercicio.condicional;
 import java.util.Scanner;
 
-public class ex13 {
+public class Ex07 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         double x = sc.nextDouble();

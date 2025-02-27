@@ -1,6 +1,8 @@
+package src.java.exercicio.sequencial;
+
 import java.util.Scanner;
 
-public class ex02 {
+public class Ex02 {
     public static void main(String[] args) {
         double largura, comprimento, valorMetro;
 

@@ -1,7 +1,9 @@
+package src.java.exercicio.sequencial;
+
 import java.util.Scanner;
 
-public class ex04 {
-    public static void main(String[] args) {
+public class Ex04 {
+     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Raio: ");
         double raio = sc.nextDouble();

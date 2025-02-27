@@ -1,6 +1,7 @@
+package src.java.exercicio.repetitivas;
 import java.util.Scanner;
 
-public class ex25 {
+public class Ex11 {
      public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();

@@ -1,7 +1,9 @@
+package src.java.exercicio.sequencial;
+
 import java.util.Scanner;
 
-public class ex05 {
-    public static void main(String[] args) {
+public class Ex05 {
+     public static void main(String[] args) {
         int a, b, c, d;
         
         Scanner sc = new Scanner(System.in);

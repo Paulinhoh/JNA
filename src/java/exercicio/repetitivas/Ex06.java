@@ -1,6 +1,7 @@
+package src.java.exercicio.repetitivas;
 import java.util.Scanner;
 
-public class ex20 {
+public class Ex06 {
     public static void main(String[] args) {
         int x = 1;
         int y = 1;

@@ -1,4 +1,5 @@
-public class ex19 {
+package src.java.exercicio.repetitivas;
+public class Ex05 {
     public static void main(String[] args) {
         int senha = 2002;
         int n = 0;

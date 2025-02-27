@@ -1,6 +1,7 @@
+package src.java.exercicio.repetitivas;
 import java.util.Scanner;
 
-public class ex18 {
+public class Ex04 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         double salario = sc.nextDouble();

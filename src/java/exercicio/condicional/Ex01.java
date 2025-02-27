@@ -1,6 +1,8 @@
+package src.java.exercicio.condicional;
+
 import java.util.Scanner;
 
-public class ex07 {
+public class Ex01 {
     public static void main(String[] args) {
         int codigo1, codigo2, quantidade;
         double valor;

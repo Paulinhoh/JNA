@@ -1,6 +1,7 @@
+package src.java.exercicio.repetitivas;
 import java.util.Scanner;
 
-public class ex21 {
+public class Ex07 {
     public static void main(String[] args) {
         int x = 0;
         int alcool = 0;

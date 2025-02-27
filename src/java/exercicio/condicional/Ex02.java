@@ -1,6 +1,8 @@
+package src.java.exercicio.condicional;
+
 import java.util.Scanner;
 
-public class ex08 {
+public class Ex02 {
     public static void main(String[] args) {
         double a, b, c;
 

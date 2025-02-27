@@ -1,8 +1,10 @@
+package src.java.exercicio.sequencial;
+
 import java.util.Locale;
 
-public class ex01 {
+public class Ex01 {
     public static void main(String[] args) {
-        String product01 = "Computer";
+         String product01 = "Computer";
         String product02 = "Office desk";
 
         int age = 30;
